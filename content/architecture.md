@@ -15,10 +15,7 @@ RosterSource architecture design focused on the need for flexibility, scalabilit
     <p><b>RosterSource Architecture</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/RosterSourceArchitectureReleaseV2.pdf" target="_blank">Download PDF</a>.</p>
 </object>
 
-
  
-
-<img src="/img/res.svg" alt="">
 
 
   
