@@ -9,9 +9,9 @@ share-img:
 
 <h3>What is RosterSource?</h3>
 
-Free and open Platform as a Service (PaaS) for federated physician roster data exchange.
+<p class = "bg-post-subhead">Free and open Platform as a Service (PaaS) for federated physician roster data exchange.</p>
 
---- 
+<hr class="bg-post-separator" />
 
 {{<top-contents>}}
 
