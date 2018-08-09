@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Roster Source"
