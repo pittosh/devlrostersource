@@ -19,7 +19,7 @@ share-img:
 
 <img src="/img/Diagram.jpg" alt="northrop-grumman-logo" class = "img-responsive">
 
-The RosterSource Platform as a Service (PaaS) gives health systems and health insurers alike the freedom of keeping their data in their own line of business systems but share it in near-real-time with their close partners or the broader ecosystem, including government entities. 
+The RosterSource Platform as a Service (PaaS) gives health systems and health insurers alike the freedom of keeping their data in their own line of business systems and still share it in near-real-time with their close partners or the broader ecosystem, including government entities. 
 
 
 Significant cost savings are achieved through federated roster management shared services and open source software. You’re no longer alone.
